@@ -73,10 +73,3 @@ class Seq:
                 
         return motif_locations
 
-
-s = Seq("ATG")
-    
-
-
-s.changeSeq("AAAAGCCGTAATTG")
-        
